@@ -1,0 +1,6 @@
+{
+  "name": "Sindh Smart Farmer AI",
+  "description": "AI-powered crop diagnosis, agricultural advisory, and multi-lingual farming support for smallholders in Sindh, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
